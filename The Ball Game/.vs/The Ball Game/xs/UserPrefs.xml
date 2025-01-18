@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{BD1FD984-724D-F5F5-A322-D2DCEB93D226}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scrips/PlayerController.cs">
+    <Files>
+      <File FileName="Assets/scrips/PlayerController.cs" Line="59" Column="20" />
+      <File FileName="Library/PackageCache/com.unity.inputsystem@1.7.0/InputSystem/Plugins/PlayerInput/DefaultInputActions.cs" />
+      <File FileName="Library/PackageCache/com.unity.inputsystem@1.7.0/InputSystem/Plugins/PlayerInput/PlayerInput.cs" />
+      <File FileName="Assets/Scenes/Main menu.unity" />
+      <File FileName="Assets/mats/physical materials/Player.physicMaterial" Line="13" Column="21" />
+      <File FileName="Assets/scrips/CameraController.cs" Line="39" Column="1" />
+      <File FileName="Assets/scrips/EndFlag.cs" Line="19" Column="69" />
+      <File FileName="Assets/scrips/spin.cs" Line="1" Column="1" />
+      <File FileName="Assets/scrips/spin 2.cs" Line="8" Column="18" />
+      <File FileName="Assets/scrips/ChangeSceneManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/scrips/GameSceneManager.cs" Line="27" Column="28" />
+      <File FileName="Assets/scrips/Pusher.cs" />
+      <File FileName="Assets/scrips/Platform.cs" Line="1" Column="1" />
+      <File FileName="Assets/scrips/CheckpointManager.cs" Line="20" Column="11" />
+      <File FileName="Assets/scrips/Timer.cs" Line="3" Column="1" />
+      <File FileName="Assets/scrips/icePlatform.cs" Line="44" Column="1" />
+      <File FileName="Assets/scrips/Treadmill.cs" Line="20" Column="51" />
+      <File FileName="Assets/scrips/Reset.cs" />
+      <File FileName="Assets/scrips/GameDataManger.cs" Line="1" Column="1" />
+      <File FileName="Assets/scrips/SimpleGroundCheck.cs" />
+      <File FileName="Assets/LevelManger.cs" Line="26" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="The Ball Game" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="mats" expanded="True">
+                <Node name="physical materials" expanded="True" />
+              </Node>
+              <Node name="Scenes" expanded="True" />
+              <Node name="scrips" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/elijahwilliams/Desktop/Ball game/The Ball Game/Assets/scrips/PlayerController.cs" relfile="Assets/scrips/PlayerController.cs" line="59" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6615c9df-09a1-4416-9d39-1d29186472cf" />
+  <MultiItemStartupConfigurations />
+</Properties>
